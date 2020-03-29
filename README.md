@@ -7,7 +7,7 @@ To build our deep learning-based real-time object detector with OpenCV we’ll n
 
 The real-time deep-learning based object detector in action,
 
-![Screenshot](demo.png)
+![Screenshot](/demo/demo.png)
 
 
 
