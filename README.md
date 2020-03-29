@@ -5,7 +5,9 @@ To build our deep learning-based real-time object detector with OpenCV we’ll n
 (1) access our webcam/video stream in an efficient manner and 
 (2) apply object detection to each frame.
 
-To see our real-time deep-learning based object detector in action, execute the following command,
+The real-time deep-learning based object detector in action,
+![Screenshot](demo.png)
+
 
 
 
